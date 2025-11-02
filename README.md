@@ -1,5 +1,7 @@
 # prettymaps
 
+This fork is inteneded to create an specific version of `prettymaps` with certain functions and extra stuff.
+
 A minimal Python library to draw customized maps from [OpenStreetMap](https://www.openstreetmap.org/#map=12/11.0733/106.3078) created using the [osmnx](https://github.com/gboeing/osmnx), [matplotlib](https://matplotlib.org/), [shapely](https://shapely.readthedocs.io/en/stable/index.html) and [vsketch](https://github.com/abey79/vsketch) packages.
 
 ![](https://github.com/marceloprates/prettymaps/raw/main/pictures/heerhugowaard.png)
@@ -8,20 +10,6 @@ A minimal Python library to draw customized maps from [OpenStreetMap](https://ww
 
 
 This work is [licensed](LICENSE) under a GNU Affero General Public License v3.0 (you can make commercial use, distribute and modify this project, but must **disclose** the source code with the license and copyright notice)
-
-## Note about crediting and NFTs:
-- Please keep the printed message on the figures crediting my repository and OpenStreetMap ([mandatory by their license](https://www.openstreetmap.org/copyright)).
-- I am personally **against** NFTs for their [environmental impact](https://earth.org/nfts-environmental-impact/), the fact that they're a [giant money-laundering pyramid scheme](https://twitter.com/smdiehl/status/1445795667826208770) and the structural incentives they create for [theft](https://twitter.com/NFTtheft) in the open source and generative art communities.
-- **I do not authorize in any way this project to be used for selling NFTs**, although I cannot legally enforce it. **Respect the creator**.
-- The [AeternaCivitas](https://magiceden.io/marketplace/aeterna_civitas) and [geoartnft](https://www.geo-nft.com/) projects have used this work to sell NFTs and refused to credit it. See how they reacted after being exposed: [AeternaCivitas](https://github.com/marceloprates/prettymaps/raw/main/pictures/NFT_theft_AeternaCivitas.jpg), [geoartnft](https://github.com/marceloprates/prettymaps/raw/main/pictures/NFT_theft_geoart.jpg).
-- **I have closed my other generative art projects on Github and won't be sharing new ones as open source to protect me from the NFT community**.
-
-<a href='https://ko-fi.com/marceloprates_' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-## As seen on [Hacker News](https://web.archive.org/web/20210825160918/https://news.ycombinator.com/news):
-![](https://github.com/marceloprates/prettymaps/raw/main/pictures/hackernews-prettymaps.png)
-## [prettymaps subreddit](https://www.reddit.com/r/prettymaps_/)
-## [Google Colaboratory Demo](https://colab.research.google.com/github/marceloprates/prettymaps/blob/master/notebooks/examples.ipynb)
 
 # Installation
 
